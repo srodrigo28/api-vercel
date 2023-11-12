@@ -76,5 +76,13 @@
       "preco": 120.0,
       "duracao_minutos": 60
     }
+  ],
+    "users": [
+    {
+      "id": 1,
+      "nome": "Edson",
+      "email": "edson@gmail.com",
+      "senha": "12345"
+    },
   ]
 }
