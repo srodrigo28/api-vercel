@@ -52,6 +52,12 @@
       "senha": "12345"
     }
   ],
+  "afiliados":[
+    { "id": 1, "nome": "vitor", "telefone": "123456789", "gestorId": 1},
+    { "id": 2, "nome": "maria", "telefone": "62985921140", "gestorId": 2},
+    { "id": 3, "nome": "alex", "telefone": "62985921140", "gestorId": 2},
+    { "id": 4, "nome": "beto", "telefone": "629888-1124", "gestorId": 1}
+  ],
   "gestores": [
     {
       "id": 1,
@@ -77,11 +83,5 @@
       "telefone": "629998-1124",
       "senha": "a123"
     }
-  ],
-  "afiliados":[
-    { "id": 1, "gestor_id": 1, "nome": "vitor"},
-    { "id": 2, "gestor_id": 2, "nome": "maria"},
-    { "id": 3, "gestor_id": 2, "nome": "alex"},
-    { "id": 4, "gestor_id": 1, "nome": "beto"}
   ]
 }
