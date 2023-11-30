@@ -81,7 +81,7 @@
   "afiliados":[
     { "id": 1, "gestor_id": 1, "nome": "vitor"},
     { "id": 2, "gestor_id": 2, "nome": "maria"},
-    { "id": 3, "gestor_id": 2, "nome": "alex"}
+    { "id": 3, "gestor_id": 2, "nome": "alex"},
     { "id": 4, "gestor_id": 1, "nome": "beto"}
   ]
 }
