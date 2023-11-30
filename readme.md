@@ -7,22 +7,37 @@ afiliados?_embed=gestores
 https://api-vercel-virid.vercel.app/users
 
 https://api-vercel-virid.vercel.app/gestores
+
 https://api-vercel-virid.vercel.app/gestores?_sort=nome&_order=desc
 
 https://api-vercel-virid.vercel.app/afiliados
 
-https://api-vercel-virid.vercel.app/afiliados?_expand
-
 https://api-vercel-virid.vercel.app/afiliados?_expand=gestor
 
-https://api-vercel-virid.vercel.app/afiliados?_embed=gestor
+https://api-vercel-virid.vercel.app/gestores?_embed=afiliados
 
-https://api-vercel-virid.vercel.app/afiliados?_embed=gestores
+### Rotas relacionadas
 
+https://api-vercel-virid.vercel.app/afiliados?gestorId=1
+
+
+### EndPoints Afiliados
+https://api-vercel-virid.vercel.app/afiliados
+
+### EndPoints Afiliados
+* Cadastrar afiliados
+```
+    {
+        "nome": "danila amateus",
+        "telefone": "(011) 99911-3326",
+        "gestorId": 3
+    }
+```
 
 ### EndPoints Referências
 
 https://www.fabricadecodigo.com/json-server/
+https://www.youtube.com/watch?v=XjQY7-i1UDg
 
 Request 	URL 	 Detalhes
 
