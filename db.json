@@ -61,5 +61,8 @@
       "telefone": "62985921140",
       "senha": "12345"
     }
+  ],
+  "afiliados":[
+    { "id": 1, "gestorId": 1, "nome": "vitor"}
   ]
 }
