@@ -60,9 +60,19 @@
       "email": "edson@gmail.com",
       "telefone": "62985921140",
       "senha": "12345"
+    },
+    {
+      "id": 2,
+      "nome": "Juliana",
+      "sexo": "f",
+      "email": "juliana@gmail.com",
+      "telefone": "629998-1124",
+      "senha": "a123"
     }
   ],
   "afiliados":[
-    { "id": 1, "gestorId": 1, "nome": "vitor"}
+    { "id": 1, "gestorId": 1, "nome": "vitor"},
+    { "id": 2, "gestorId": 2, "nome": "maria"},
+    { "id": 3, "gestorId": 2, "nome": "alex"}
   ]
 }
