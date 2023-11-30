@@ -53,10 +53,24 @@
     }
   ],
   "afiliados":[
-    { "id": 1, "nome": "vitor", "telefone": "123456789", "gestorId": 1},
-    { "id": 2, "nome": "maria", "telefone": "62985921140", "gestorId": 2},
-    { "id": 3, "nome": "alex", "telefone": "62985921140", "gestorId": 2},
-    { "id": 4, "nome": "beto", "telefone": "629888-1124", "gestorId": 1}
+    {
+    "nome": "daniela silva sousa",
+		"email": "daniela@terra.com",
+		"cpf": "01046088999",
+		"telefone": "62 985921140",
+		"cep": "7419218",
+		"uf": "go",
+		"sexo": "f",
+		"bairro": "jardim tiradentes",
+		"logradouro": "rua 05, quadra 18",
+		"complemento": "casa 2",
+		"titulo": "215215",
+		"data_nasc": "25/02/1994",
+		"zona": "154",
+		"secao": "68",
+	
+		"gestorId": 1
+    }
   ],
   "gestores": [
     {

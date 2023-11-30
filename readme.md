@@ -21,6 +21,14 @@ https://api-vercel-virid.vercel.app/gestores?_embed=afiliados
 https://api-vercel-virid.vercel.app/afiliados?gestorId=1
 
 
+#### EndPoints Filtros
+
+https://api-vercel-virid.vercel.app/gestores?sexo=f
+
+### EndPoints POST
+
+### EndPoints PUT
+
 ### EndPoints Afiliados
 https://api-vercel-virid.vercel.app/afiliados
 
