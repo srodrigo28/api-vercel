@@ -63,6 +63,14 @@
     },
     {
       "id": 2,
+      "nome": "Ana Livia",
+      "sexo": "f",
+      "email": "ana@gmail.com",
+      "telefone": "629888-1124",
+      "senha": "ba12"
+    },
+    {
+      "id": 3,
       "nome": "Juliana",
       "sexo": "f",
       "email": "juliana@gmail.com",
@@ -71,8 +79,9 @@
     }
   ],
   "afiliados":[
-    { "id": 1, "gestorId": 1, "nome": "vitor"},
-    { "id": 2, "gestorId": 2, "nome": "maria"},
-    { "id": 3, "gestorId": 2, "nome": "alex"}
+    { "id": 1, "gestor_id": 1, "nome": "vitor"},
+    { "id": 2, "gestor_id": 2, "nome": "maria"},
+    { "id": 3, "gestor_id": 2, "nome": "alex"}
+    { "id": 4, "gestor_id": 1, "nome": "beto"}
   ]
 }
