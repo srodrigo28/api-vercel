@@ -46,6 +46,7 @@ https://api-vercel-virid.vercel.app/afiliados
 
 https://www.fabricadecodigo.com/json-server/
 https://www.youtube.com/watch?v=XjQY7-i1UDg
+https://expressjs.com/en/guide/using-middleware.html
 
 Request 	URL 	 Detalhes
 
