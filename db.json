@@ -51,5 +51,15 @@
       "telefone": "62985921140",
       "senha": "12345"
     }
+  ],
+  "gestores": [
+    {
+      "id": 1,
+      "nome": "Edson",
+      "sexo": "m",
+      "email": "edson@gmail.com",
+      "telefone": "62985921140",
+      "senha": "12345"
+    }
   ]
 }
