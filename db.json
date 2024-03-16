@@ -55,6 +55,7 @@
   "afiliados":[
     {
     "nome": "daniela silva sousa",
+	    "id": 1,
 		"email": "daniela@terra.com",
 		"cpf": "01046088999",
 		"telefone": "62 985921140",
